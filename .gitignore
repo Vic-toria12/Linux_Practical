@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+# Keep evidence placeholders and explicitly requested submission templates tracked.
